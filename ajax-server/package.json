@@ -1,0 +1,11 @@
+{
+  "name": "ajax-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Artem Shubovych",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
